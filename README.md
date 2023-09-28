@@ -1,2 +1,2 @@
 # SMS-Spam-Detection
-Spam Detection using NLP concepts and Naive Bayes Classifier
+Spam Detection using Natural Language Processing and Naive Bayes Classifier
